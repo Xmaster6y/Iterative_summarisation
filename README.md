@@ -12,10 +12,14 @@ Experiment on Iterative Summarization, potentially linked to Natural Abstraction
 
 The repository is accompanied by notebooks without the cell's outputs, see below.
 
-* Training notebook
+* Training notebook (resulting weights publicly available, see the notebook)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xmaster6y/Iterative_summarization/blob/1-notebook-and-write-up/training_notebook.ipynb)
 
+* Interpretability notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Xmaster6y/Iterative_summarization/blob/1-notebook-and-write-up/interpretability_notebook.ipynb)
+
 ## Future work
 
-The idea could be to emphasize the experiment on abstraction and iterative models, see the [write-up](./jam4_write-up.pdf) for references.
+With more time and resources fine-tuning could be done on a bigger model with a bigger dataset. The idea could be to emphasize the experiment on abstraction and iterative models, see the [write-up](./jam4_write-up.pdf) for references.
