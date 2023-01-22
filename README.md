@@ -10,7 +10,7 @@ Experiment on Iterative Summarization, potentially linked to Natural Abstraction
 
 ## Demo notebooks
 
-The repository is accompanied by notebooks containing the cell's outputs, see below.
+The repository is accompanied by notebooks without the cell's outputs, see below.
 
 * Training notebook
 
